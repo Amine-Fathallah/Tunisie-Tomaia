@@ -1,0 +1,97 @@
+{
+    "Header": {
+
+        "title": "Tunisie Tomaia",
+        "paragraph": "Notre entreprise est spécialisée dans la fabrication de chaussures et de tiges de chaussures avec des clientèles européennes et locales."
+
+    },
+    "About": {
+        "paragraph": "Tunisie Tomaia est une entreprise tunisienne, fondée en 2016 par Sahmeddine Bahij, un expert en matière de fabrication de chaussures avec 18 ans d'expérience dans ce domaine. L'entreprise est située dans une petite ville à une quarantaine de kilomètres au sud-est de Tunis dans la région de Nabeul. Elle est spécialisée dans la fabrication de chaussures et de tiges de chaussures avec des clientèles européennes et locales.",
+        "Why": [
+            "Equipe experimentée",
+            "Qualité garantie",
+            "Deadlines respectés"
+        ],
+        "Why2": [
+            "Mileu de travail selon les normes",
+            "Cout d'heure abordable",
+            "Facilité de transport"
+        ]
+    },
+    "Services": [{
+            "icon": "fa fa-wordpress",
+            "name": "SOUS-TRAITANCE",
+            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+        },
+        {
+            "icon": "fa fa-cart-arrow-down",
+            "name": "CO-TRAITANCE",
+            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+        },
+        {
+            "icon": "fa fa-cloud-download",
+            "name": "PRODUIT FINI",
+            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+        }
+
+    ],
+    "Testimonials": [{
+            "img": "img/testimonials/01.jpg",
+            "text": "\"Primigi est une marque de chaussures italienne spécialisée dans la fabriction de chaussures pour enfants.\"",
+            "name": "- PRIMIGI"
+        },
+        {
+            "img": "img/testimonials/02.jpg",
+            "text": "\"ÉRAM est le Leader français de la distribution de chaussures en centre-ville et centre commerciaux. \"",
+            "name": "- ÉRAM"
+        },
+        {
+            "img": "img/testimonials/03.jpg",
+            "text": "\"Gep est une marque de chaussures française qui produisent différents types de chaussures.\"",
+            "name": "- GEP"
+        },
+        {
+            "img": "img/testimonials/04.jpg",
+            "text": "\"Benetton est une entreprise italienne qui produisent des vêtements et de chaussures de qualité. \"",
+            "name": "- BENETTON"
+        },
+        {
+            "img": "img/testimonials/05.jpg",
+            "text": "\"Balducci est une marque de chaussures italienne qui proposent une variété de chaussures de qualité.\"",
+            "name": "- BALDUCCI"
+        },
+        {
+            "img": "img/testimonials/06.jpg",
+            "text": "\"King Shoes est une marque de chaussures italienne qui fabriquent certains produits propre à eux.\"",
+            "name": "- KING SHOES"
+        }
+    ],
+    "Team": [{
+            "img": "img/team/01.jpg",
+            "name": "Sahmeddine Bahij",
+            "job": "Gérant"
+        },
+        {
+            "img": "img/team/02.jpg",
+            "name": "Amine Fathallah",
+            "job": "Relation client & Service informatique"
+        }, {
+            "img": "img/team/03.jpg",
+            "name": "Wajih Gharbi",
+            "job": "Finance & Resources humaines"
+        },
+        {
+            "img": "img/team/04.jpg",
+            "name": "Sahbi Ben Sassi",
+            "job": "Chef de production"
+        }
+    ],
+    "Contact": {
+        "address": "Rue abou bakker errazi, Grombalia 8030, Tunisie ",
+        "phone": "+216 22449879",
+        "email": "tunisietomaia@gmail.com",
+        "facebook": "fb.com",
+        "twitter": "twitter.com",
+        "youtube": "youtube.com"
+    }
+}
