@@ -3,7 +3,7 @@ import React, { Component } from "react";
 export class testimonials extends Component {
   render() {
     return (
-      <div id="testimonials">
+      <div id="brands">
         <div className="container">
           <div className="section-title text-center">
             <h2>Des Marques qui ont confiance en nous</h2>

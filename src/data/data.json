@@ -6,7 +6,7 @@
 
     },
     "About": {
-        "paragraph": "Tunisie Tomaia est une entreprise tunisienne, fondée en 2016 par Sahmeddine Bahij, un expert en matière de fabrication de chaussures avec 18 ans d'expérience dans ce domaine. L'entreprise est située dans une petite ville à une quarantaine de kilomètres au sud-est de Tunis dans la région de Nabeul. Elle est spécialisée dans la fabrication de chaussures et de tiges de chaussures avec des clientèles européennes et locales.",
+        "paragraph": "Tunisie Tomaia est une entreprise tunisienne, fondée en 2012 par Sahmeddine Bahij, un expert en matière de fabrication de chaussures avec 20 ans d'expérience dans ce domaine. L'entreprise est située dans une petite ville nommée Grombalia à une quarantaine de kilomètres au sud-est de Tunis dans la région de Nabeul. Elle est spécialisée dans la fabrication de chaussures et de tiges de chaussures avec des clientèles européennes et locales.",
         "Why": [
             "Equipe experimentée",
             "Qualité garantie",
@@ -19,19 +19,19 @@
         ]
     },
     "Services": [{
-            "icon": "fa fa-wordpress",
+            "icon": "fa fa-check",
             "name": "SOUS-TRAITANCE",
-            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+            "text": "La sous-taitance, chez Tunisie Tomaia, est l'activité fondamentale de l'entreprise, des grandes marques nous ont fait confiance afin de fabriquer des chaussures de haute qualité et quit répondent aux normes internationales. "
         },
         {
-            "icon": "fa fa-cart-arrow-down",
+            "icon": "fa fa-check",
             "name": "CO-TRAITANCE",
-            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+            "text": "La co-traitance, chez Tunisie Tomaia, fait partie de nos activités même si elle représente 5% de l'ensemble des activités au sein de l'entreprise."
         },
         {
-            "icon": "fa fa-cloud-download",
+            "icon": "fa fa-check",
             "name": "PRODUIT FINI",
-            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+            "text": "Tunisie Tomaia prend en charge l'approvisionnement des matières (cuir, textile, synthétique, semelles, accessoires...), la production, la logistique, les déclarations douaniéres... "
         }
 
     ],
@@ -76,12 +76,12 @@
             "name": "Amine Fathallah",
             "job": "Relation client & Service informatique"
         }, {
-            "img": "img/team/03.jpg",
+            "img": "img/team/06.jpg",
             "name": "Wajih Gharbi",
             "job": "Finance & Resources humaines"
         },
         {
-            "img": "img/team/04.jpg",
+            "img": "img/team/05.jpg",
             "name": "Sahbi Ben Sassi",
             "job": "Chef de production"
         }
@@ -90,8 +90,8 @@
         "address": "Rue abou bakker errazi, Grombalia 8030, Tunisie ",
         "phone": "+216 22449879",
         "email": "tunisietomaia@gmail.com",
-        "facebook": "fb.com",
-        "twitter": "twitter.com",
-        "youtube": "youtube.com"
+        "facebook": "www.facebook.com",
+        "twitter": "www.twitter.com",
+        "youtube": "www.youtube.com"
     }
 }

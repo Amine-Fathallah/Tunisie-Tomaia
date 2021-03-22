@@ -1,9 +1,10 @@
 import React, { Component } from "react";
+import ProductsList from "./ProductsList";
 
 export class Gallery extends Component {
   render() {
     return (
-      <div id="portfolio" className="text-center">
+      <div id="gallery" className="text-center">
         <div className="container">
           <div className="section-title">
             <h2>Galerie</h2>
@@ -206,6 +207,9 @@ export class Gallery extends Component {
               </div>
             </div>
           </div>
+        </div>
+        <div className="realisations">
+          <ProductsList />
         </div>
       </div>
     );
